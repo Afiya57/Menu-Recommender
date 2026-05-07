@@ -385,7 +385,7 @@ MENU = [
      "category": "Food", "health": ["Low Calories"], "budget": "Medium",
      "location": "China Town, Lahore"},
      {"name": "Bubble Tea", "desc": "Milk tea with chewy tapioca pearls.", "price": 500,
-     "rating": 4.7, "emoji": "🧋", "cuisine": "Chinese", "taste": ["Sweet"],
+     "rating": 4.7, "emoji": "🥤", "cuisine": "Chinese", "taste": ["Sweet"],
      "category": "Drink", "health": ["No Restrictions"], "budget": "Low",
      "location": "Cafe Street, Lahore"},
 
